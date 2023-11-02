@@ -5,7 +5,8 @@ DisplayStrings = (
 "Ice/space cream",
 "/sdotbelow.fina",
 "/ebreve",
-"/ngrave/ngrave.fina"
+"/ngrave/ngrave.fina",
+"/sdotbelow"
 );
 classes = (
 {
