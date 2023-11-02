@@ -16,7 +16,8 @@ DisplayStrings = (
 "/Sdotbelow",
 "/Edotbelow",
 "/edotbelow",
-"b/bhook/dhook/khook/yhook"
+"b/bhook/dhook/khook/yhook",
+"/yhook"
 );
 classes = (
 {
@@ -31935,6 +31936,17 @@ glyphname = yhook;
 layers = (
 {
 layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
+paths = (
+{
+closed = 1;
+nodes = (
+"446 508 LINE",
+"176 377 LINE",
+"118 434 LINE",
+"186 561 LINE"
+);
+}
+);
 width = 600;
 }
 );
