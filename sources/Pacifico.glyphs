@@ -3,7 +3,9 @@
 DisplayStrings = (
 "Ó",
 "Ice/space cream",
-"/sdotbelow.fina"
+"/sdotbelow.fina",
+"/ebreve",
+"/ngrave/ngrave.fina"
 );
 classes = (
 {
@@ -26288,6 +26290,25 @@ rightKerningGroup = n;
 unicode = 0146;
 },
 {
+glyphname = ngrave;
+layers = (
+{
+components = (
+{
+name = n;
+},
+{
+name = gravecomb;
+transform = "{1, 0, 0, 1, 13, 0}";
+}
+);
+layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
+width = 496;
+}
+);
+unicode = 01F9;
+},
+{
 color = 4;
 glyphname = nj;
 lastChange = "2016-08-03 22:51:12 +0000";
@@ -37894,6 +37915,25 @@ width = 484;
 );
 leftKerningGroup = n;
 rightKerningGroup = n_fina;
+},
+{
+glyphname = ngrave.fina;
+lastChange = "2023-11-02 02:18:32 +0000";
+layers = (
+{
+components = (
+{
+name = n.fina;
+},
+{
+name = gravecomb;
+transform = "{1, 0, 0, 1, 13, 0}";
+}
+);
+layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
+width = 484;
+}
+);
 },
 {
 color = 6;
