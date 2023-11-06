@@ -1,7 +1,6 @@
 {
 .appVersion = "3208";
 DisplayStrings = (
-"/khook/khook.fina/k.fina",
 "/khook k"
 );
 classes = (
