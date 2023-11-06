@@ -1,7 +1,8 @@
 {
 .appVersion = "3208";
 DisplayStrings = (
-"/khook k"
+"/khook k",
+"d/dhook"
 );
 classes = (
 {
@@ -25343,7 +25344,7 @@ unicode = 0111;
 },
 {
 glyphname = dhook;
-lastChange = "2023-11-06 23:21:24 +0000";
+lastChange = "2023-11-06 23:41:25 +0000";
 layers = (
 {
 anchors = (
@@ -25441,7 +25442,7 @@ nodes = (
 );
 }
 );
-width = 470;
+width = 490;
 }
 );
 unicode = 0257;
