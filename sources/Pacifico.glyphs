@@ -2,14 +2,22 @@
 .appVersion = "3208";
 .formatVersion = 3;
 DisplayStrings = (
-"/reversedze-cy.fina",
+"ԑ/reversedze-cy.fina",
 "ә",
 "х",
 "Ээ",
 "ɔɛ",
 "nɔno/o.fina/oopen.fina nɔɔncc",
 "ɔ",
-"ЭƆɔ"
+"ЭƆɔ",
+"nɛyɛnɛ",
+"ɛ",
+"Е/Ie-cy.ss01",
+"Ҟ",
+"Ю",
+"/Yusbig-cy.ss01",
+"/Hbar.ss01",
+"Ɛ"
 );
 classes = (
 {
@@ -158,12 +166,12 @@ code = "V.ss01 W.ss01 Wacute.ss01 Wcircumflex.ss01 Wdieresis.ss01 Wgrave.ss01";
 name = V_ss01;
 },
 {
-code = "a.fina aacute.fina abreve.fina abreveacute.fina abrevedotbelow.fina abrevegrave.fina abrevehookabove.fina abrevetilde.fina acircumflex.fina acircumflexacute.fina acircumflexdotbelow.fina acircumflexgrave.fina acircumflexhookabove.fina acircumflextilde.fina adblgrave.fina adieresis.fina adotbelow.fina agrave.fina ahookabove.fina ainvertedbreve.fina amacron.fina aogonek.fina aring.fina aringacute.fina atilde.fina ae.fina aeacute.fina b.fina c.fina cacute.fina ccaron.fina ccedilla.fina ccircumflex.fina cdotaccent.fina d.fina dcaron.fina dcroat.fina dzcaron.fina e.fina eacute.fina ebreve.fina ecaron.fina ecircumflex.fina ecircumflexacute.fina ecircumflexdotbelow.fina ecircumflexgrave.fina ecircumflexhookabove.fina ecircumflextilde.fina edblgrave.fina edieresis.fina edotaccent.fina edotbelow.fina egrave.fina ehookabove.fina einvertedbreve.fina emacron.fina eogonek.fina etilde.fina g.fina gbreve.fina gcaron.fina gcircumflex.fina gcommaaccent.fina gdotaccent.fina h.fina hbar.fina hcircumflex.fina i.fina idotless.fina iacute.fina ibreve.fina icircumflex.fina idblgrave.fina idieresis.fina idotaccent.fina idotbelow.fina igrave.fina ihookabove.fina iinvertedbreve.fina i_j.loclNLD.fina imacron.fina iogonek.fina itilde.fina j.fina jdotless.fina jcircumflex.fina k.fina kcommaaccent.fina kgreenlandic.fina l.fina lacute.fina lcaron.fina lcommaaccent.fina ldot.fina lj.fina lslash.fina m.fina n.fina nacute.fina napostrophe.fina ncaron.fina ncommaaccent.fina eng.fina nj.fina ntilde.fina o.fina oacute.fina obreve.fina ocircumflex.fina ocircumflexacute.fina ocircumflexdotbelow.fina ocircumflexgrave.fina ocircumflexhookabove.fina ocircumflextilde.fina odblgrave.fina odieresis.fina odieresismacron.fina odotaccentmacron.fina odotbelow.fina ograve.fina ohookabove.fina ohorn.fina ohornacute.fina ohorndotbelow.fina ohorngrave.fina ohornhookabove.fina ohorntilde.fina ohungarumlaut.fina oinvertedbreve.fina omacron.fina oogonek.fina oopen.fina oslash.fina oslashacute.fina otilde.fina otildemacron.fina oe.fina p.fina thorn.fina q.fina r.fina racute.fina rcaron.fina rcommaaccent.fina rdblgrave.fina rinvertedbreve.fina s.fina sacute.fina scaron.fina scedilla.fina scircumflex.fina scommaaccent.fina germandbls.fina lj.ss01.fina eng.ss01.fina p.ss01.fina z.ss01.fina zacute.ss01.fina zcaron.ss01.fina zdotaccent.ss01.fina t.fina tbar.fina tcaron.fina tcedilla.fina tcommaaccent.fina u.fina uacute.fina ubreve.fina ucircumflex.fina udblgrave.fina udieresis.fina udotbelow.fina ugrave.fina uhorn.fina uhornacute.fina uhorndotbelow.fina uhorngrave.fina uhornhookabove.fina uhorntilde.fina uhungarumlaut.fina uinvertedbreve.fina umacron.fina uogonek.fina uring.fina utilde.fina v.fina w.fina wacute.fina wcircumflex.fina wdieresis.fina wgrave.fina x.fina y.fina yacute.fina ycircumflex.fina ydieresis.fina ydotbelow.fina ygrave.fina yhookabove.fina ymacron.fina ytilde.fina z.fina zacute.fina zcaron.fina zdotaccent.fina uhookabove.fina
+code = "a.fina aacute.fina abreve.fina abreveacute.fina abrevedotbelow.fina abrevegrave.fina abrevehookabove.fina abrevetilde.fina acircumflex.fina acircumflexacute.fina acircumflexdotbelow.fina acircumflexgrave.fina acircumflexhookabove.fina acircumflextilde.fina adblgrave.fina adieresis.fina adotbelow.fina agrave.fina ahookabove.fina ainvertedbreve.fina amacron.fina aogonek.fina aring.fina aringacute.fina atilde.fina ae.fina aeacute.fina b.fina c.fina cacute.fina ccaron.fina ccedilla.fina ccircumflex.fina cdotaccent.fina d.fina dcaron.fina dcroat.fina dzcaron.fina e.fina eacute.fina ebreve.fina ecaron.fina ecircumflex.fina ecircumflexacute.fina ecircumflexdotbelow.fina ecircumflexgrave.fina ecircumflexhookabove.fina ecircumflextilde.fina edblgrave.fina edieresis.fina edotaccent.fina edotbelow.fina egrave.fina ehookabove.fina einvertedbreve.fina emacron.fina eogonek.fina eopen.fina etilde.fina g.fina gbreve.fina gcaron.fina gcircumflex.fina gcommaaccent.fina gdotaccent.fina h.fina hbar.fina hcircumflex.fina i.fina idotless.fina iacute.fina ibreve.fina icircumflex.fina idblgrave.fina idieresis.fina idotaccent.fina idotbelow.fina igrave.fina ihookabove.fina iinvertedbreve.fina i_j.loclNLD.fina imacron.fina iogonek.fina itilde.fina j.fina jdotless.fina jcircumflex.fina k.fina kcommaaccent.fina kgreenlandic.fina l.fina lacute.fina lcaron.fina lcommaaccent.fina ldot.fina lj.fina lslash.fina m.fina n.fina nacute.fina napostrophe.fina ncaron.fina ncommaaccent.fina eng.fina nj.fina ntilde.fina o.fina oacute.fina obreve.fina ocircumflex.fina ocircumflexacute.fina ocircumflexdotbelow.fina ocircumflexgrave.fina ocircumflexhookabove.fina ocircumflextilde.fina odblgrave.fina odieresis.fina odieresismacron.fina odotaccentmacron.fina odotbelow.fina ograve.fina ohookabove.fina ohorn.fina ohornacute.fina ohorndotbelow.fina ohorngrave.fina ohornhookabove.fina ohorntilde.fina ohungarumlaut.fina oinvertedbreve.fina omacron.fina oogonek.fina oopen.fina oslash.fina oslashacute.fina otilde.fina otildemacron.fina oe.fina p.fina thorn.fina q.fina r.fina racute.fina rcaron.fina rcommaaccent.fina rdblgrave.fina rinvertedbreve.fina s.fina sacute.fina scaron.fina scedilla.fina scircumflex.fina scommaaccent.fina germandbls.fina lj.ss01.fina eng.ss01.fina p.ss01.fina z.ss01.fina zacute.ss01.fina zcaron.ss01.fina zdotaccent.ss01.fina t.fina tbar.fina tcaron.fina tcedilla.fina tcommaaccent.fina u.fina uacute.fina ubreve.fina ucircumflex.fina udblgrave.fina udieresis.fina udotbelow.fina ugrave.fina uhorn.fina uhornacute.fina uhorndotbelow.fina uhorngrave.fina uhornhookabove.fina uhorntilde.fina uhungarumlaut.fina uinvertedbreve.fina umacron.fina uogonek.fina uring.fina utilde.fina v.fina w.fina wacute.fina wcircumflex.fina wdieresis.fina wgrave.fina x.fina y.fina yacute.fina ycircumflex.fina ydieresis.fina ydotbelow.fina ygrave.fina yhookabove.fina ymacron.fina ytilde.fina z.fina zacute.fina zcaron.fina zdotaccent.fina uhookabove.fina
 ";
 name = fina_all;
 },
 {
-code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat dzcaron e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron eogonek etilde g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icircumflex idblgrave idieresis idotaccent idotbelow igrave ihookabove iinvertedbreve i_j.loclNLD imacron iogonek itilde j jdotless jcircumflex k kcommaaccent kgreenlandic l lacute lcaron lcommaaccent ldot lj lslash m n nacute napostrophe ncaron ncommaaccent eng nj ntilde o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccentmacron odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron oogonek oopen oslash oslashacute otilde otildemacron oe p thorn q r racute rcaron rcommaaccent rdblgrave rinvertedbreve s sacute scaron scedilla scircumflex scommaaccent germandbls lj.ss01 eng.ss01 p.ss01 z.ss01 zacute.ss01 zcaron.ss01 zdotaccent.ss01 t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udblgrave udieresis udotbelow ugrave uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ymacron ytilde z zacute zcaron zdotaccent uhookabove
+code = "a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring aringacute atilde ae aeacute b c cacute ccaron ccedilla ccircumflex cdotaccent d dcaron dcroat dzcaron e eacute ebreve ecaron ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron eogonek eopen etilde g gbreve gcaron gcircumflex gcommaaccent gdotaccent h hbar hcircumflex i idotless iacute ibreve icircumflex idblgrave idieresis idotaccent idotbelow igrave ihookabove iinvertedbreve i_j.loclNLD imacron iogonek itilde j jdotless jcircumflex k kcommaaccent kgreenlandic l lacute lcaron lcommaaccent ldot lj lslash m n nacute napostrophe ncaron ncommaaccent eng nj ntilde o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccentmacron odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron oogonek oopen oslash oslashacute otilde otildemacron oe p thorn q r racute rcaron rcommaaccent rdblgrave rinvertedbreve s sacute scaron scedilla scircumflex scommaaccent germandbls lj.ss01 eng.ss01 p.ss01 z.ss01 zacute.ss01 zcaron.ss01 zdotaccent.ss01 t tbar tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udblgrave udieresis udotbelow ugrave uhorn uhornacute uhorndotbelow uhorngrave uhornhookabove uhorntilde uhungarumlaut uinvertedbreve umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ydotbelow ygrave yhookabove ymacron ytilde z zacute zcaron zdotaccent uhookabove
 ";
 name = norm_all;
 },
@@ -186,12 +194,12 @@ code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove A
 name = AllLetters;
 },
 {
-code = "bhook.fina dhook.alt1 dhook.fina khook.fina macute.fina ndotaccent.fina ngrave.fina oopen.fina sdotbelow.fina 
+code = "bhook.fina dhook.alt1 dhook.fina eopen.fina khook.fina macute.fina ndotaccent.fina ngrave.fina oopen.fina sdotbelow.fina 
 ";
 name = africa_pri_fina;
 },
 {
-code = "bhook dhook khook macute ndotaccent ngrave oopen sdotbelow yhook
+code = "bhook dhook eopen khook macute ndotaccent ngrave oopen sdotbelow yhook
 ";
 name = africa_pri;
 }
@@ -515,6 +523,7 @@ sub emacron by emacron.fina;
 sub emacronacute by emacronacute.fina;
 sub emacrongrave by emacrongrave.fina;
 sub eogonek by eogonek.fina;
+sub eopen by eopen.fina;
 sub etilde by etilde.fina;
 sub etildebelow by etildebelow.fina;
 sub g by g.fina;
@@ -5133,8 +5142,91 @@ unicode = 280;
 glyphname = Eopen;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (372,0);
+},
+{
+name = ogonek;
+pos = (506,10);
+},
+{
+name = top;
+pos = (466,840);
+},
+{
+name = topleft;
+pos = (44,840);
+}
+);
 layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(528,-5,o),
+(668,18,o),
+(748,56,cs),
+(797,80,o),
+(812,107,o),
+(812,145,cs),
+(812,177,o),
+(795,199,o),
+(755,182,cs),
+(674,148,o),
+(538,115,o),
+(421,115,cs),
+(248,115,o),
+(179,160,o),
+(179,240,cs),
+(179,309,o),
+(244,382,o),
+(420,386,cs),
+(468,387,o),
+(479,417,o),
+(480,449,cs),
+(481,480,o),
+(471,492,o),
+(440,493,cs),
+(315,497,o),
+(276,548,o),
+(276,604,cs),
+(276,685,o),
+(350,737,o),
+(463,737,cs),
+(553,737,o),
+(580,698,o),
+(580,656,cs),
+(580,621,o),
+(570,603,o),
+(570,574,cs),
+(570,540,o),
+(594,524,o),
+(630,524,cs),
+(684,524,o),
+(713,579,o),
+(713,656,cs),
+(713,762,o),
+(638,848,o),
+(465,848,cs),
+(282,848,o),
+(128,753,o),
+(128,605,cs),
+(128,527,o),
+(183,450,o),
+(294,441,c),
+(305,460,l),
+(122,432,o),
+(31,341,o),
+(31,215,cs),
+(31,92,o),
+(150,-5,o),
+(410,-5,cs)
+);
+}
+);
+width = 686;
 }
 );
 unicode = 400;
@@ -30049,10 +30141,72 @@ unicode = 281;
 },
 {
 glyphname = eopen;
+lastChange = "2023-11-08 19:20:44 +0000";
 layers = (
 {
 layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
-width = 600;
+shapes = (
+{
+closed = 1;
+nodes = (
+(503,243,o),
+(494,241,o),
+(484,229,cs),
+(426,159,o),
+(319,95,o),
+(231,95,cs),
+(172,95,o),
+(154,114,o),
+(155,145,cs),
+(156,177,o),
+(185,199,o),
+(253,199,cs),
+(277,199,o),
+(288,215,o),
+(288,236,cs),
+(288,266,o),
+(276,279,o),
+(246,279,cs),
+(198,279,o),
+(173,292,o),
+(173,333,cs),
+(173,362,o),
+(192,385,o),
+(236,385,cs),
+(295,385,o),
+(294,339,o),
+(337,339,cs),
+(364,339,o),
+(382,354,o),
+(382,380,cs),
+(382,430,o),
+(325,475,o),
+(246,475,cs),
+(134,475,o),
+(75,412,o),
+(75,343,cs),
+(75,305,o),
+(93,258,o),
+(129,239,c),
+(59,221,o),
+(30,177,o),
+(30,129,cs),
+(30,48,o),
+(78,-5,o),
+(220,-5,cs),
+(363,-5,o),
+(479,88,o),
+(520,136,cs),
+(537,156,o),
+(539,179,o),
+(539,198,cs),
+(539,225,o),
+(529,243,o),
+(511,243,cs)
+);
+}
+);
+width = 389;
 }
 );
 unicode = 603;
@@ -45624,6 +45778,76 @@ width = 411;
 );
 metricLeft = e;
 metricWidth = e.fina;
+},
+{
+glyphname = eopen.fina;
+layers = (
+{
+layerId = "ECEFE970-1BBB-4E0A-A452-CEB55884B4A3";
+shapes = (
+{
+closed = 1;
+nodes = (
+(299,-5,o),
+(363,32,o),
+(398,86,cs),
+(411,106,o),
+(415,129,o),
+(415,148,cs),
+(415,175,o),
+(405,193,o),
+(387,193,cs),
+(379,193,o),
+(370,191,o),
+(360,178,cs),
+(318,124,o),
+(289,95,o),
+(231,95,cs),
+(172,95,o),
+(154,114,o),
+(155,145,cs),
+(156,177,o),
+(185,199,o),
+(253,199,cs),
+(277,199,o),
+(288,215,o),
+(288,236,cs),
+(288,266,o),
+(276,279,o),
+(246,279,cs),
+(198,279,o),
+(173,292,o),
+(173,333,cs),
+(173,362,o),
+(192,385,o),
+(236,385,cs),
+(295,385,o),
+(294,339,o),
+(337,339,cs),
+(364,339,o),
+(382,354,o),
+(382,380,cs),
+(382,430,o),
+(325,475,o),
+(246,475,cs),
+(134,475,o),
+(75,412,o),
+(75,343,cs),
+(75,305,o),
+(93,258,o),
+(129,239,c),
+(59,221,o),
+(30,177,o),
+(30,129,cs),
+(30,48,o),
+(78,-5,o),
+(208,-5,cs)
+);
+}
+);
+width = 396;
+}
+);
 },
 {
 color = 6;
