@@ -5,7 +5,8 @@ DisplayStrings = (
 "d/dhook i",
 "/dhook",
 "/khook .",
-"kkkkkk/space"
+"kkkkkk/space",
+"/Eng"
 );
 classes = (
 {
