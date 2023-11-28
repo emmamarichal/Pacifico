@@ -2,9 +2,6 @@
 .appVersion = "3208";
 .formatVersion = 3;
 DisplayStrings = (
-"nj/Je-cy.ss01 ȷɓɗƙƴ  jɲ/nhookleft.fina  /n.fina n",
-"JN/N.ss01 FJNj Ɲ/Nhookleft.ss01",
-"ɔ",
 "ɛ",
 "ɲ",
 "Vṅ",
@@ -14,7 +11,9 @@ DisplayStrings = (
 "ə",
 "ŋ",
 "ɓ",
-"ɓkl e /l.fina l "
+"ɓkl e /l.fina l ",
+"ɗ",
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 );
 classes = (
 {
@@ -2920,6 +2919,20 @@ kernRight = KO_B;
 lastChange = "2023-11-08 05:37:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (414,0);
+},
+{
+name = center;
+pos = (414,420);
+},
+{
+name = top;
+pos = (414,840);
+}
+);
 background = {
 shapes = (
 {
@@ -3116,6 +3129,7 @@ shapes = (
 ref = B;
 },
 {
+pos = (120,380);
 ref = dotaccentcomb.case;
 }
 );
@@ -3134,6 +3148,7 @@ shapes = (
 ref = B;
 },
 {
+pos = (175,0);
 ref = dotbelowcomb.case;
 }
 );
@@ -3557,6 +3572,7 @@ shapes = (
 ref = B;
 },
 {
+pos = (176,0);
 ref = macronbelowcomb.case;
 }
 );
@@ -12444,6 +12460,16 @@ kernRight = KO_Q;
 lastChange = "2023-11-08 04:58:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (408,0);
+},
+{
+name = top;
+pos = (408,840);
+}
+);
 background = {
 shapes = (
 {
@@ -15768,6 +15794,20 @@ kernRight = KO_Y;
 lastChange = "2016-08-05 10:27:22 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (426,0);
+},
+{
+name = top;
+pos = (426,840);
+},
+{
+name = topleft;
+pos = (20,840);
+}
+);
 background = {
 shapes = (
 {
@@ -16028,7 +16068,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (252,380);
+pos = (132,380);
 ref = acutecomb.case;
 }
 );
@@ -16051,7 +16091,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (252,380);
+pos = (132,380);
 ref = circumflexcomb.case;
 }
 );
@@ -16074,7 +16114,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (252,380);
+pos = (132,380);
 ref = dieresiscomb.case;
 }
 );
@@ -16095,6 +16135,7 @@ shapes = (
 ref = Y;
 },
 {
+pos = (132,380);
 ref = dotaccentcomb.case;
 }
 );
@@ -16117,7 +16158,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (537,-95);
+pos = (187,0);
 ref = dotbelowcomb.case;
 }
 );
@@ -16140,7 +16181,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (252,380);
+pos = (132,380);
 ref = gravecomb.case;
 }
 );
@@ -16550,7 +16591,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (251,380);
+pos = (131,380);
 ref = hookabovecomb.case;
 }
 );
@@ -16573,7 +16614,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (251,380);
+pos = (131,380);
 ref = macroncomb.case;
 }
 );
@@ -16596,7 +16637,7 @@ shapes = (
 ref = Y;
 },
 {
-pos = (252,380);
+pos = (132,380);
 ref = tildecomb.case;
 }
 );
@@ -16617,6 +16658,10 @@ anchors = (
 {
 name = bottom;
 pos = (360,0);
+},
+{
+name = center;
+pos = (361,420);
 },
 {
 name = top;
@@ -31318,6 +31363,16 @@ kernRight = KO_f;
 lastChange = "2023-11-08 05:37:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (186,0);
+},
+{
+name = top;
+pos = (186,930);
+}
+);
 background = {
 shapes = (
 {
@@ -36017,6 +36072,10 @@ name = bottom;
 pos = (223,0);
 },
 {
+name = center;
+pos = (226,230);
+},
+{
 name = ogonek;
 pos = (294,10);
 },
@@ -38062,6 +38121,16 @@ kernRight = KO_n;
 lastChange = "2023-11-08 05:37:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (241,0);
+},
+{
+name = top;
+pos = (241,460);
+}
+);
 background = {
 shapes = (
 {
@@ -38244,6 +38313,7 @@ shapes = (
 ref = p;
 },
 {
+pos = (-53,0);
 ref = acutecomb;
 }
 );
@@ -38264,6 +38334,7 @@ shapes = (
 ref = p;
 },
 {
+pos = (-53,0);
 ref = dotaccentcomb;
 }
 );
@@ -38443,6 +38514,16 @@ kernRight = KO_q;
 lastChange = "2023-11-08 04:58:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (250,0);
+},
+{
+name = top;
+pos = (250,460);
+}
+);
 background = {
 shapes = (
 {
@@ -41296,6 +41377,16 @@ kernRight = KO_v;
 lastChange = "2023-11-08 05:37:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (225,0);
+},
+{
+name = top;
+pos = (225,460);
+}
+);
 background = {
 shapes = (
 {
@@ -41432,6 +41523,7 @@ shapes = (
 ref = v;
 },
 {
+pos = (-69,0);
 ref = tildecomb;
 }
 );
@@ -41774,6 +41866,16 @@ kernRight = KO_x;
 lastChange = "2023-11-08 05:37:05 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (265,0);
+},
+{
+name = top;
+pos = (265,460);
+}
+);
 background = {
 shapes = (
 {
@@ -42054,6 +42156,7 @@ shapes = (
 ref = x;
 },
 {
+pos = (-29,0);
 ref = dieresiscomb;
 }
 );
@@ -42074,6 +42177,7 @@ shapes = (
 ref = x;
 },
 {
+pos = (-29,0);
 ref = dotaccentcomb;
 }
 );
@@ -42940,6 +43044,10 @@ anchors = (
 {
 name = bottom;
 pos = (283,0);
+},
+{
+name = center;
+pos = (223,230);
 },
 {
 name = top;
