@@ -2,18 +2,11 @@
 .appVersion = "3208";
 .formatVersion = 3;
 DisplayStrings = (
-"ɛ",
-"ɲ",
-"Vṅ",
-"ȉ",
-"ḛ",
-"ḥ",
-"ə",
-"ŋ",
 "ɓ",
 "ɓkl e /l.fina l ",
 "ɗ",
-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz,
+O
 );
 classes = (
 {
