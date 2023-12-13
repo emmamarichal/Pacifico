@@ -2,16 +2,14 @@
 .appVersion = "3228";
 .formatVersion = 3;
 DisplayStrings = (
-"/Eng.ss01",
-u,
-q,
-"rs/y.fina  yss y
-y",
 v,
 "Xmas xmas xenon for the bauxite doxology of the tableaux equinox and exxon. Yunnan yunnan young for the dynamo coyote of the obloquy employ and sayyid. Zloty zloty zodiac for the gizmo ozone of the franz laissez and buzzing.",
 "ABIDE ACORN OF THE HABIT DACRON FOR THE BUDDHA GOUDA QUAALUDE. BENCH BOGUS OF THE SCRIBE ROBOT FOR THE APLOMB JACOB RIBBON.",
 "Fa
-Fạ"
+Fạ",
+"Ƴf
+Yf",
+K
 );
 classes = (
 {
@@ -30891,11 +30889,11 @@ shapes = (
 ref = d.ss01;
 },
 {
-pos = (470,0);
+pos = (450,0);
 ref = zcaron;
 }
 );
-width = 916;
+width = 896;
 }
 );
 unicode = 454;
@@ -35486,11 +35484,11 @@ shapes = (
 ref = l;
 },
 {
-pos = (326,0);
+pos = (356,0);
 ref = j;
 }
 );
-width = 580;
+width = 610;
 }
 );
 unicode = 457;
