@@ -10,8 +10,8 @@ y",
 v,
 "Xmas xmas xenon for the bauxite doxology of the tableaux equinox and exxon. Yunnan yunnan young for the dynamo coyote of the obloquy employ and sayyid. Zloty zloty zodiac for the gizmo ozone of the franz laissez and buzzing.",
 "ABIDE ACORN OF THE HABIT DACRON FOR THE BUDDHA GOUDA QUAALUDE. BENCH BOGUS OF THE SCRIBE ROBOT FOR THE APLOMB JACOB RIBBON.",
-"Ta
-Tâ"
+"Fa
+Fạ"
 );
 classes = (
 {
@@ -45073,7 +45073,7 @@ color = 6;
 glyphname = a.fina;
 kernLeft = KO_a;
 kernRight = KO_a.fina;
-lastChange = "2023-11-08 04:58:05 +0000";
+lastChange = "2023-12-13 00:01:17 +0000";
 layers = (
 {
 anchors = (
@@ -143908,7 +143908,7 @@ kerningLTR = {
 "@MMK_R_KO_L" = -31;
 "@MMK_R_KO_P" = -15;
 "@MMK_R_KO_Thorn" = -28;
-"@MMK_R_KO_a" = -60;
+"@MMK_R_KO_a" = -50;
 "@MMK_R_KO_ae" = -57;
 "@MMK_R_KO_ampersand" = 80;
 "@MMK_R_KO_apostrophemod" = 2;
